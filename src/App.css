@@ -1,0 +1,28 @@
+* {
+  font-family: Calibri;
+  font-size: 14px;
+  margin: 2px;
+}
+
+.App {
+  padding: 25px;
+  background-color: lightgreen;
+  justify-content: center;
+  text-align: center;
+}
+
+.results {
+  padding: 20px;
+  background-color: lightyellow;
+  justify-content: center;
+}
+
+.userInfo {
+  padding: 20px;
+  font-size: 16px;
+}
+
+.repoResults {
+  padding: 20px;
+  text-align: justify;
+}
